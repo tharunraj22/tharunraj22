@@ -42,6 +42,14 @@ I architect secure, scalable solutions by mapping customer initiatives to modern
 * **Akamai Technologies** | *SOCC Specialist – Senior* (2017 – 2019)
     * Protected global customers against DDoS/Web attacks (Prolexic & KONA WAF).
 
+* **M-Tech** | *Technical Consultant* (2017 – 2017)
+    * Operated as a strategic technical extension for Arbor Networks, leading end-to-end delivery from PoCs to implementation.
+ 
+* **Radware** | *Techincal Head - West* (2013 – 2017)
+    * Led West India SE operations and presales strategy, overseeing team management, solution design, PoCs, and critical escalation resolution.
+
+* **Wipro InfoTech** | *Field Engineer (Emerging Technologies)* (2009 – 2013)
+    * Executed implementation and troubleshooting for a diverse stack of Network Security, Load Balancing, and WAN Optimization infrastructure.
 ---
 
 ### 📜 Certifications
