@@ -59,8 +59,3 @@ I architect secure, scalable solutions by mapping customer initiatives to modern
 * **BSc — Information Technology** | *Kuvempu University*
 
 ---
-
-<div align="center">
-  <sub>Visitor count</sub><br>
-  <img src="https://profile-counter.glitch.me/tharunraj/count.svg" />
-</div>
