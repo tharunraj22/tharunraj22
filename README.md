@@ -29,12 +29,12 @@ I architect secure, scalable solutions by mapping customer initiatives to modern
 
 ### 💼 Experience
 
-* **Cloudflare** | *Senior Solutions Engineer* (Feb 2022 – Present)
+* **Fastly** | *Senior Solutions Engineer* (May 2026 – Present)
     * Employee no:1 in sales and marketing to build and scale Fastly footprint in India.
     * Architecting secure, scalable solutions and driving technical strategy.
 
-* **Cloudflare** | *Senior Solutions Engineer* (Feb 2022 – Present)
-    * First SE hired to build and scale Cloudflare's technical footprint in India.
+* **Cloudflare** | *Senior Solutions Engineer* (Feb 2022 – April 2026)
+    * One of the First SE hired to build and scale Cloudflare's technical footprint in India.
     * Architecting secure, scalable solutions and driving technical strategy.
 
 * **F5 Networks** | *Solutions Engineer II* (2020 – 2022)
