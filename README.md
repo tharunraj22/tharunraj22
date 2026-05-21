@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tharun Raj
 
-**Senior Solutions Engineer @ Fastly** India*
+**Senior Solutions Engineer @ Fastly** India
 
 [![Website](https://img.shields.io/badge/Website-tharunraj.co.in-blue?style=for-the-badge&logo=google-chrome)](https://www.tharunraj.co.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharunraj/)
